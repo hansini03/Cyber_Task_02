@@ -8,12 +8,12 @@ To understand the CIA Triad, Risk Assessment, Threat Analysis, and Security Reco
 
 ## Repository Contents
 
-- CIA Triad Research.md
-- CyberAttack Case Study.md
-- Risk Assessment Table.md
-- Threat Analysis.md
-- Security Recommendations.md
-- Consultant Report.md
+- CIA_Triad_Research.md
+- CyberAttack_Case_Study.md
+- Risk Assessment_Table.md
+- Threat_Analysis.md
+- Security_Recommendations.md
+- Consultant_Report.md
 
 ## Technologies Used
 - Git
