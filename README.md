@@ -14,6 +14,7 @@ To understand the CIA Triad, Risk Assessment, Threat Analysis, and Security Reco
 * [Threat Analysis](./Threat_Analysis.md)
 * [Security Recommendations](./Security_Recommendations.md)
 * [Consultant Report](./Consultant_Report.md)
+*
 
 ## Technologies Used
 - Git
