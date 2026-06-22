@@ -6,14 +6,14 @@ Hansini Kulal
 ## Objective
 To understand the CIA Triad, Risk Assessment, Threat Analysis, and Security Recommendations used in modern cybersecurity.
 
-## Repository Contents
+### Repository Contents
 
-- [CIA Triad Research](CIA_Triad_Research.md)
-- [Cyber Attack Case Study](Cyber_Attack_Case_Study.md)
-- [Risk Assessment Table](Risk_Assessment_Table.md)
-- [Threat Analysis](Threat_Analysis.md)
-- [Security Recommendations](Security_Recommendations.md)
-- [Consultant Report](Consultant_Report.md)
+* [CIA Triad Research](./CIA_Triad__Research.md)
+* [Cyber Attack Case Study](./CyberAttack_Case__Study.md)
+* [Risk Assessment Table](./Risk_Assessment_Table.md)
+* [Threat Analysis](./Threat_Analysis.md)
+* [Security Recommendations](./Security_Recommendations.md)
+* [Consultant Report](./Consultant_Report.md)
 
 ## Technologies Used
 - Git
