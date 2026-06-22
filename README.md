@@ -8,8 +8,8 @@ To understand the CIA Triad, Risk Assessment, Threat Analysis, and Security Reco
 
 ### Repository Contents
 
-* [CIA Triad Research](./CIA_Triad__Research.md)
-* [Cyber Attack Case Study](./CyberAttack_Case__Study.md)
+* [CIA Triad Research](./CIA_Triad_Research.md)
+* [Cyber Attack Case Study](./CyberAttack_Case_Study.md)
 * [Risk Assessment Table](./Risk_Assessment_Table.md)
 * [Threat Analysis](./Threat_Analysis.md)
 * [Security Recommendations](./Security_Recommendations.md)
